@@ -1,4 +1,4 @@
-# Credit-Card-Fraud
+# Credit-Card-Risk Fraud-Analysis-
 Using PowerBI Data Analytics and Visualization
 - Data Collection & Cleaning – Preparing transaction data for fraud analysis
 - Exploratory Data Analysis (EDA) – Identifying fraud trends & anomalies
